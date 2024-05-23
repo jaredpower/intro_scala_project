@@ -7,6 +7,8 @@ import doodle.reactor.*
 import scala.concurrent.duration.*
 import cats.effect.unsafe.implicits.global
 
+// hello world
+
 // To use this example:
 //
 // 1. run `sbt`
